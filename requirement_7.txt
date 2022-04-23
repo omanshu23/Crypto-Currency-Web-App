@@ -1,0 +1,11 @@
+matplotlib==3.5.1
+lxml==4.8.0
+numpy==1.21.6
+pandas==1.3.5
+seaborn==0.11.2
+streamlit==1.8.1
+base64
+beautifulsoup4==4.9.1
+requests==2.22.0
+json5==0.9.4
+Pillow==7.0.0
